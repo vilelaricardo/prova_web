@@ -143,5 +143,4 @@ O servidor será iniciado na porta 3000 ou na porta especificada na variável de
 - express
 - mongoose
 - bcrypt
-- jwt
-- body-parser
+- jsonwebtoken
